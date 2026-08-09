@@ -1,4 +1,2 @@
-streamlit
-Pillow
-salite3
-streamlit-card
+streamlit>=1.38
+pillow>=10.0
